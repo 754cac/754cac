@@ -32,12 +32,12 @@ Here are some ideas to get you started:
 var 754cac = {
     alternativeName: "Steven",
     status: {
-        occupation: "student",
+        occupation: "Student",
         institute: "The Hong Kong Polytechnic University",
     },
     developerMode: {
-        frontEnd: [HTML, CSS, Javascript, Java, Python, C++],
-        backEnd: [Python, PHP],
+        frontEnd: [CSS, HTML, Javascript],
+        backEnd: [ C++, Java, Python, PHP],
         dataBase: [MYSQL]        
     },
     secMode: {
